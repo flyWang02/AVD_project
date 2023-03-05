@@ -1,4 +1,5 @@
 # AVD_project
+Please remember to see the Installation guidelines.pdf when configuring your environment. !!!!!!  
 In the root directory  
 installation guidelines.pdf  
 Project_Report_point.pdf  
